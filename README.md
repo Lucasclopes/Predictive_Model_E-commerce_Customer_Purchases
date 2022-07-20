@@ -4,7 +4,7 @@
 
 **Keywords**: Python, Predictive Model, Machine Learning, Neural Networks, Decision Trees, Random Forest, Gradient Boost
 
-**Important libraries and packages:**
+## Important libraries and packages 
 - pandas, numpy
 - seaborn, matplotlib
 - sklearn(ensemble, model_selection, feature selection)
@@ -17,7 +17,7 @@
 - ### Grids, Tuning, Test Performance
 - ### Deployment
 
-**Data:**
+## Data
 - Data fields
 - Access_ID - Unique identification of the user access to the website
 - Date - Website visit date
