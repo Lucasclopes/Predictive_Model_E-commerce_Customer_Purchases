@@ -2,14 +2,20 @@
  
 **Summary:** Build a predictive model that answers the question “Which customers are more likely to buy our products?” using data from the existing customer database
 
-**Tools**: JupyterNotebook, Python
+**Keywords**: Python, Predictive Model, Machine Learning, Neural Networks, Decision Trees, Random Forest, Gradient Boost
+
+**Important libraries and packages:**
+- pandas, numpy
+- seaborn, matplotlib
+- sklearn(ensemble, model_selection, feature selection)
 
 ## Steps
 - ### Import the data
-- ### Data Exploration
-
-
-**Libraries
+- ### Data Exploration (missing values, coherence checking)
+- ### Feature Enginnering and Selection (metric and non-metric features)
+- ### Model Training (several models were tested: KNN, NN, Naive Bayes, Decision Trees, SVM, Random Forest, ADA Boost, Gradient Boosting, ect)
+- ### Grids, Tuning, Test Performance
+- ### Deployment
 
 **Data:**
 - Data fields
