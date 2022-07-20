@@ -2,7 +2,17 @@
  
 **Summary:** Build a predictive model that answers the question “Which customers are more likely to buy our products?” using data from the existing customer database
 
+**Tools**: JupyterNotebook, Python
+
+## Steps
+- ### Import the data
+- ### Data Exploration
+
+
+**Libraries
+
 **Data:**
+- Data fields
 - Access_ID - Unique identification of the user access to the website
 - Date - Website visit date
 - AccountMng_Pages - Number of pages visited by the user about account management
