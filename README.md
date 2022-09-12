@@ -1,6 +1,6 @@
 # E-commerce Predictive Model
  
-**Summary:** Build a predictive model that answers the question “Which customers are more likely to buy our products?” using data from the existing customer database
+**Summary:** Build a predictive model that answers the question “Which customers are more likely to buy our products?” based on their online actions, using data from the existing customer database.
 
 **Keywords**: Python, Predictive Model, Machine Learning, Neural Networks, Decision Trees, Random Forest, Gradient Boost
 
